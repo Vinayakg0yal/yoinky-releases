@@ -6,7 +6,7 @@ background removal and a download queue.
 
 ## Download
 
-**[⬇ Download Yoinky 0.2.0 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.2.0_aarch64.dmg)**
+**[⬇ Download Yoinky 0.2.1 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.2.1_aarch64.dmg)**
 
 Open the downloaded file and drag Yoinky into Applications.
 - **Windows:** coming soon.
@@ -14,9 +14,11 @@ Open the downloaded file and drag Yoinky into Applications.
 The first time you open it on a Mac, right-click Yoinky in Applications and choose **Open**,
 then **Open** again (Yoinky isn't notarized by Apple yet).
 
-## What's new in 0.2.0
+## What's new
 
-First public version: fast multi-connection downloads with a queue, videos from YouTube and
+**0.2.1:** updates now come straight from this page.
+
+**0.2.0:** First public version: fast multi-connection downloads with a queue, videos from YouTube and
 1,000+ sites up to 4K plus MP3, full-size images with smart names, an AI upscaler, a background
 remover, and automatic updates.
 

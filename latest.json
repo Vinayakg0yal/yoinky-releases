@@ -1,15 +1,15 @@
 {
-  "version": "0.2.0",
-  "notes": "First public version: fast downloads, videos up to 4K and MP3, full-size images, upscaler, background remover, download queue and automatic updates.",
-  "pub_date": "2026-10-21T17:51:45Z",
+  "version": "0.2.1",
+  "notes": "Updates now come from Yoinky's download page. Everything else is the same as 0.2.0.",
+  "pub_date": "2026-10-21T18:12:26Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTnY1S1dPcUJqQXFoWmpBeUVud2VrU2QxaEpUWWJ1TE0wQWg3MEFqZkpUOENhWXI2YVpoWG83OXV0VnoyTWQxM3JFSnpNaE1hTFBLaVQ3em1BYkNSdWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA1MDAyCWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMAovWTVTME81YXBINE1yQVcwZmF2aGZMdDBBTHJKVWlxQ0IrdnBRYkEwWVQwU3NXL2d6NUVYR3YyWU5vd1JONVdWNXQrRUxTTWlycEhvQlVUOXlkMVhCdz09Cg==",
-      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.2.0/Yoinky_0.2.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTmlBdXR2RjZXNnF1cW9MWVR4TUNsQTB6Tk40aXJneUV0azNFMjRuU0loQm1NTllmcEFOTXdQZVBZQVBhQUVPSXZ4b3lXTyt5YnIrRWthd2hhbFVYeXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA2MzQ2CWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMQowd2N5MDhDSWkrMjhua3JaZGEremhiS3RmRG1Ec1ZvSEd0SDFWUERrSEZCQWtyeFVublptRnlRQXY2VTM1anBBd3JIRlNZRGx0U3RVL1BLK0lGbFFCdz09Cg==",
+      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.2.1/Yoinky_0.2.1_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTnY1S1dPcUJqQXFoWmpBeUVud2VrU2QxaEpUWWJ1TE0wQWg3MEFqZkpUOENhWXI2YVpoWG83OXV0VnoyTWQxM3JFSnpNaE1hTFBLaVQ3em1BYkNSdWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA1MDAyCWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMAovWTVTME81YXBINE1yQVcwZmF2aGZMdDBBTHJKVWlxQ0IrdnBRYkEwWVQwU3NXL2d6NUVYR3YyWU5vd1JONVdWNXQrRUxTTWlycEhvQlVUOXlkMVhCdz09Cg==",
-      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.2.0/Yoinky_0.2.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTmlBdXR2RjZXNnF1cW9MWVR4TUNsQTB6Tk40aXJneUV0azNFMjRuU0loQm1NTllmcEFOTXdQZVBZQVBhQUVPSXZ4b3lXTyt5YnIrRWthd2hhbFVYeXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA2MzQ2CWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMQowd2N5MDhDSWkrMjhua3JaZGEremhiS3RmRG1Ec1ZvSEd0SDFWUERrSEZCQWtyeFVublptRnlRQXY2VTM1anBBd3JIRlNZRGx0U3RVL1BLK0lGbFFCdz09Cg==",
+      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.2.1/Yoinky_0.2.1_aarch64.app.tar.gz"
     }
   }
 }
