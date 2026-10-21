@@ -2,17 +2,18 @@
 
 A fast, modern download manager: multi-connection downloads, videos from YouTube and
 1,000+ sites in every quality (up to 4K and MP3), full-size images, an AI upscaler,
-background removal and a download queue.
+background removal (Mac) and a download queue. For Mac and Windows.
 
 ## Download
 
 **[⬇ Download Yoinky 0.3.3 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.3.3_aarch64.dmg)**
 
-Open the downloaded file and drag Yoinky into Applications.
-- **Windows:** coming soon.
+Open the downloaded file and drag Yoinky into Applications. The first time, right-click Yoinky
+in Applications and choose **Open**, then **Open** again (Yoinky isn't notarized by Apple yet).
 
-The first time you open it on a Mac, right-click Yoinky in Applications and choose **Open**,
-then **Open** again (Yoinky isn't notarized by Apple yet).
+**[⬇ Download Yoinky 0.3.3 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.3.3_x64-setup.exe)**
+
+Run it to install (no admin needed). If Windows shows "Windows protected your PC", click **More info → Run anyway** (Yoinky isn't signed by Microsoft yet).
 
 ## What's new
 
