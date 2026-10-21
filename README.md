@@ -6,7 +6,7 @@ background removal and a download queue.
 
 ## Download
 
-**[⬇ Download Yoinky 0.2.1 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.2.1_aarch64.dmg)**
+**[⬇ Download Yoinky 0.2.2 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.2.2_aarch64.dmg)**
 
 Open the downloaded file and drag Yoinky into Applications.
 - **Windows:** coming soon.
@@ -15,6 +15,8 @@ The first time you open it on a Mac, right-click Yoinky in Applications and choo
 then **Open** again (Yoinky isn't notarized by Apple yet).
 
 ## What's new
+
+**0.2.2:** a Yoinky Downloads button at the top of every view.
 
 **0.2.1:** updates now come straight from this page.
 
