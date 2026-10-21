@@ -36,6 +36,11 @@ Yoinky checks for new versions by itself and shows **Update now** when one is ou
 Updating installs over your current version and keeps your downloads and settings.
 You can also check from Settings → Updates.
 
+## Support
+
+Yoinky is free, with no ads and no premium tier. Support me so that I can build more apps like these:
+**[☕ Tip on Ko-fi](https://ko-fi.com/vinayakg0yal)**
+
 ---
 
 This repository only hosts the installers. Yoinky's source code is private.
