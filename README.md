@@ -59,9 +59,20 @@ with new apps that aren't signed yet.
 ## Browser extension (optional, recommended)
 
 The Yoinky extension sends your browser's downloads straight to Yoinky and adds a download button
-to videos. It works in Chrome, Edge, Brave, Arc, Opera and Vivaldi. You don't download it from
-here: **Yoinky shows you how to add it** the first time you open the app (or: Settings → Browser
-extension → Set up). It takes three steps and updates itself after that.
+to videos. It works in Chrome, Edge, Brave, Arc, Opera and Vivaldi.
+
+**Easiest:** Yoinky sets it up with you the first time you open the app (or: Settings →
+Browser extension → Set up). Its **Download the extension** button saves a "Yoinky Extension"
+folder to your Downloads folder.
+
+**Or by hand:** [⬇ Download the extension (zip)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky-Extension.zip),
+then:
+
+1. Unzip it, so you have a **Yoinky Extension** folder. Move it to your **Downloads** folder
+   (keep it there: the extension runs from it, and Yoinky keeps it up to date).
+2. In your browser, open `chrome://extensions` (Edge: `edge://extensions`, Brave: `brave://extensions`).
+3. Turn on **Developer mode** (top right; in Edge it's in the menu on the left).
+4. Drag the **Yoinky Extension** folder onto that page, or click **Load unpacked** and choose it.
 
 ## What's new
 
