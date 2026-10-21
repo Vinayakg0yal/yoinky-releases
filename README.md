@@ -2,18 +2,66 @@
 
 A fast, modern download manager: multi-connection downloads, videos from YouTube and
 1,000+ sites in every quality (up to 4K and MP3), full-size images, an AI upscaler,
-background removal (Mac) and a download queue. For Mac and Windows.
+background removal and a download queue. For Mac and Windows.
 
 ## Download
 
 **[⬇ Download Yoinky 0.4.0 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.4.0_aarch64.dmg)**
-
-Open the downloaded file and drag Yoinky into Applications. The first time, right-click Yoinky
-in Applications and choose **Open**, then **Open** again (Yoinky isn't notarized by Apple yet).
+For Macs with an M1, M2, M3, M4 (or newer) chip. To check: Apple menu → **About This Mac** → "Chip".
 
 **[⬇ Download Yoinky 0.4.0 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.4.0_x64-setup.exe)**
+For Windows 10 and 11 (64-bit).
 
-Run it to install (no admin needed). If Windows shows "Windows protected your PC", click **More info → Run anyway** (Yoinky isn't signed by Microsoft yet).
+Yoinky is free and safe, but it isn't signed by Apple or Microsoft yet (that costs money every
+year). Your computer will warn you the first time. The steps below take about a minute, once.
+
+## Install on Mac
+
+1. Open the downloaded **Yoinky_…_aarch64.dmg**.
+2. Drag **Yoinky** onto the **Applications** folder in that window.
+3. Open **Applications** and double-click **Yoinky**. macOS will say it can't verify Yoinky.
+   Click **Done** (or **OK**). Don't click "Move to Trash".
+4. Open **System Settings** → **Privacy & Security**. Scroll down to the **Security** section:
+   you'll see *"Yoinky" was blocked to protect your Mac*. Click **Open Anyway**.
+5. Enter your Mac password (or use Touch ID), then click **Open Anyway** again.
+
+Yoinky opens, and from now on it opens normally, including after updates.
+
+On older macOS (Sonoma 14 and earlier) there's a shortcut instead of steps 3–5: right-click
+Yoinky in Applications → **Open** → **Open**.
+
+**If macOS says "Yoinky is damaged and can't be opened":** it isn't damaged; this is the same
+warning, worded badly. Open **Terminal** (Applications → Utilities), paste this line and press Return:
+
+```
+xattr -dr com.apple.quarantine /Applications/Yoinky.app
+```
+
+Then open Yoinky again.
+
+**First run:** Yoinky may ask to send notifications (for finished downloads); allow it if you'd like.
+It lives in the menu bar (top right) as well as the Dock.
+
+## Install on Windows
+
+1. Your browser may warn that the file *"isn't commonly downloaded"*.
+   - **Edge:** click **⋯** next to the download → **Keep** → **Show more** → **Keep anyway**.
+   - **Chrome:** click **Keep** (or open the downloads list and choose **Keep**).
+2. Open **Yoinky_…_x64-setup.exe**. Windows may show a blue **"Windows protected your PC"** screen:
+   click **More info** → **Run anyway**.
+3. Follow the installer. No administrator password is needed, and it installs just for you.
+4. Yoinky starts. Its icon also appears in the taskbar's tray (near the clock; it may be under
+   the **^** arrow).
+
+If your antivirus asks about Yoinky, choose **Allow**. Antivirus tools are sometimes cautious
+with new apps that aren't signed yet.
+
+## Browser extension (optional, recommended)
+
+The Yoinky extension sends your browser's downloads straight to Yoinky and adds a download button
+to videos. It works in Chrome, Edge, Brave, Arc, Opera and Vivaldi. You don't download it from
+here: **Yoinky shows you how to add it** the first time you open the app (or: Settings → Browser
+extension → Set up). It takes three steps and updates itself after that.
 
 ## What's new
 
