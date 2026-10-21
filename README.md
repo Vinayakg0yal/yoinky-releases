@@ -6,16 +6,18 @@ background removal (Mac) and a download queue. For Mac and Windows.
 
 ## Download
 
-**[⬇ Download Yoinky 0.3.3 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.3.3_aarch64.dmg)**
+**[⬇ Download Yoinky 0.4.0 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.4.0_aarch64.dmg)**
 
 Open the downloaded file and drag Yoinky into Applications. The first time, right-click Yoinky
 in Applications and choose **Open**, then **Open** again (Yoinky isn't notarized by Apple yet).
 
-**[⬇ Download Yoinky 0.3.3 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.3.3_x64-setup.exe)**
+**[⬇ Download Yoinky 0.4.0 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.4.0_x64-setup.exe)**
 
 Run it to install (no admin needed). If Windows shows "Windows protected your PC", click **More info → Run anyway** (Yoinky isn't signed by Microsoft yet).
 
 ## What's new
+
+**0.4.0:** Remove background and smart picture names on Windows; a quieter Ko-fi link.
 
 **0.3.3:** a Ko-fi support button in the app and the extension.
 
