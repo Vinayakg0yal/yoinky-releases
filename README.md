@@ -6,7 +6,7 @@ background removal and a download queue.
 
 ## Download
 
-**[⬇ Download Yoinky 0.3.1 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.3.1_aarch64.dmg)**
+**[⬇ Download Yoinky 0.3.2 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.3.2_aarch64.dmg)**
 
 Open the downloaded file and drag Yoinky into Applications.
 - **Windows:** coming soon.
@@ -15,6 +15,8 @@ The first time you open it on a Mac, right-click Yoinky in Applications and choo
 then **Open** again (Yoinky isn't notarized by Apple yet).
 
 ## What's new
+
+**0.3.2:** a clear message for copy-protected services like Netflix and Spotify.
 
 **0.3.1:** remove a download from the list only, or delete its file too (it goes to the Trash).
 
