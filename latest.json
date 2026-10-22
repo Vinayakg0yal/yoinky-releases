@@ -1,23 +1,23 @@
 {
-  "version": "0.4.2",
-  "notes": "Fixes: Windows opens the right folders and files; frosted glass on Windows; the copied-link pop-up shows for 14 seconds and no longer reappears by itself; image tools no longer get stuck at 100%; pop-ups fit small windows; Google preview images can be downloaded.",
-  "pub_date": "2026-10-21T23:54:02Z",
+  "version": "0.4.3",
+  "notes": "Only one Yoinky runs at a time (opening it again shows the running one). Pop-ups are centered. The browser extension's video button is now a small see-through circle that follows the video smoothly and fades away when you're not using it.",
+  "pub_date": "2026-10-22T00:16:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTnJQZFhDYmhleDRocXY4UEFETk1MS2VPTFVGVU5WZXI1QUZCWTNXajRlSWFSODVjVGo5dUVUR3piaVd3TDc3UFFMeEFVMWhmME4wVk5INUpSTk9JQkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI2ODQxCWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjQuMgp6ejdmVVRnS2Q4SlhpTHpaR0tYMzMzdkFlRHhVdkcxd0V3cmRrT1NOZHRLWHZpTWtHVzhMd0MwU0hLOEpPQTVSdW5PUFJ3alU0QW5ET0NYRDdsVmhDZz09Cg==",
-      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.4.2/Yoinky_0.4.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTm9OZzVBY3VsWnpNOGN4VVRXaHQ1U3ZSb2FublZPbGlKVVdYdmNTdmNleDM1a2ltTDZhaFUwMzRpNWpMVnhoYmhtOTVNNnM0R1Z5RXVLV2tyYjloVWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI4MTYwCWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjQuMwpVQTcyaGVRQVltalpsVGlITVlOVktYSUJUV29oUVQrVkd4UWpJUzBUTTVTbFlKRW5oWTgvTmtjRk1VdmxYUXE1WHJWRkM3bjRjWlBxWEtTWE5Gd0ZDQT09Cg==",
+      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.4.3/Yoinky_0.4.3_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTnJQZFhDYmhleDRocXY4UEFETk1MS2VPTFVGVU5WZXI1QUZCWTNXajRlSWFSODVjVGo5dUVUR3piaVd3TDc3UFFMeEFVMWhmME4wVk5INUpSTk9JQkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI2ODQxCWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjQuMgp6ejdmVVRnS2Q4SlhpTHpaR0tYMzMzdkFlRHhVdkcxd0V3cmRrT1NOZHRLWHZpTWtHVzhMd0MwU0hLOEpPQTVSdW5PUFJ3alU0QW5ET0NYRDdsVmhDZz09Cg==",
-      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.4.2/Yoinky_0.4.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTm9OZzVBY3VsWnpNOGN4VVRXaHQ1U3ZSb2FublZPbGlKVVdYdmNTdmNleDM1a2ltTDZhaFUwMzRpNWpMVnhoYmhtOTVNNnM0R1Z5RXVLV2tyYjloVWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI4MTYwCWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjQuMwpVQTcyaGVRQVltalpsVGlITVlOVktYSUJUV29oUVQrVkd4UWpJUzBUTTVTbFlKRW5oWTgvTmtjRk1VdmxYUXE1WHJWRkM3bjRjWlBxWEtTWE5Gd0ZDQT09Cg==",
+      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.4.3/Yoinky_0.4.3_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTmtkb0RpcFNmbzBneFUwSVVLcFUvLysxSzFQNDRXVVlMNU1SeGF3VkxySlVrUkJrZVVXQnEyQXFPblliN05nUy9vRGtIWFdnZTA2bDFmcW10SFNiUXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI3MTA1CWZpbGU6WW9pbmt5XzAuNC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMgoxTWNQTTJBOFlhWXpMT2cwRVBWU3VqZ2dTelFjOXkycnVSZ1lrUEl3N2tPMGlpMUZId2JyTGdKNXU3c2F5UTlWVytBRFV5a3J1YlM0QjJ5VmtNSVBEQT09Cg==",
-      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.4.2/Yoinky_0.4.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTmhDamsxemMzSXJSWGwvcWZWUlliUFppRDd1Mk44d0tFdEZlWFdMc2NqSDY3TU1RcWsrdnRhbHlhTnBHUkRGaUR0QmF0Rk5HS1RUcTJIYjRQc01UZUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI4NDI3CWZpbGU6WW9pbmt5XzAuNC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMwplaW9MdWJybE9LdDRBczZSZGdXM2xwWGc1WEI5Q2J4S1Fxek85NVVRTHo3d2NWbWhHZW9rSjJlUWU2QjdRYU5tN0o4dUtRVVdMRXpEdjB5cVFGR1lEUT09Cg==",
+      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.4.3/Yoinky_0.4.3_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTmtkb0RpcFNmbzBneFUwSVVLcFUvLysxSzFQNDRXVVlMNU1SeGF3VkxySlVrUkJrZVVXQnEyQXFPblliN05nUy9vRGtIWFdnZTA2bDFmcW10SFNiUXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI3MTA1CWZpbGU6WW9pbmt5XzAuNC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMgoxTWNQTTJBOFlhWXpMT2cwRVBWU3VqZ2dTelFjOXkycnVSZ1lrUEl3N2tPMGlpMUZId2JyTGdKNXU3c2F5UTlWVytBRFV5a3J1YlM0QjJ5VmtNSVBEQT09Cg==",
-      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.4.2/Yoinky_0.4.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTmhDamsxemMzSXJSWGwvcWZWUlliUFppRDd1Mk44d0tFdEZlWFdMc2NqSDY3TU1RcWsrdnRhbHlhTnBHUkRGaUR0QmF0Rk5HS1RUcTJIYjRQc01UZUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI4NDI3CWZpbGU6WW9pbmt5XzAuNC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMwplaW9MdWJybE9LdDRBczZSZGdXM2xwWGc1WEI5Q2J4S1Fxek85NVVRTHo3d2NWbWhHZW9rSjJlUWU2QjdRYU5tN0o4dUtRVVdMRXpEdjB5cVFGR1lEUT09Cg==",
+      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.4.3/Yoinky_0.4.3_x64-setup.exe"
     }
   }
 }
