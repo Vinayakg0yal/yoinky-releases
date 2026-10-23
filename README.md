@@ -6,10 +6,10 @@ background removal and a download queue. For Mac and Windows.
 
 ## Download
 
-**[⬇ Download Yoinky 0.5.0 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.5.0_aarch64.dmg)**
+**[⬇ Download Yoinky 0.5.1 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.5.1_aarch64.dmg)**
 For Macs with an M1, M2, M3, M4 (or newer) chip. To check: Apple menu → **About This Mac** → "Chip".
 
-**[⬇ Download Yoinky 0.5.0 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.5.0_x64-setup.exe)**
+**[⬇ Download Yoinky 0.5.1 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.5.1_x64-setup.exe)**
 For Windows 10 and 11 (64-bit).
 
 Yoinky is free and safe, but it isn't signed by Apple or Microsoft yet (that costs money every
@@ -75,6 +75,8 @@ then:
 4. Drag the **Yoinky Extension** folder onto that page, or click **Load unpacked** and choose it.
 
 ## What's new
+
+**0.5.1:** Instagram posts open reliably; stories and photos through the extension button; the button never covers a site's own buttons; tidier picker (extension 1.4.0).
 
 **0.5.0:** Instagram and X support: paste or copy a post, reel, carousel or story link and pick the whole post or single photos and videos (extension 1.3.0).
 
