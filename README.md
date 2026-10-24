@@ -6,10 +6,10 @@ background removal and a download queue. For Mac and Windows.
 
 ## Download
 
-**[⬇ Download Yoinky 0.5.3 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.5.3_aarch64.dmg)**
+**[⬇ Download Yoinky 0.5.4 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.5.4_aarch64.dmg)**
 For Macs with an M1, M2, M3, M4 (or newer) chip. To check: Apple menu → **About This Mac** → "Chip".
 
-**[⬇ Download Yoinky 0.5.3 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.5.3_x64-setup.exe)**
+**[⬇ Download Yoinky 0.5.4 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.5.4_x64-setup.exe)**
 For Windows 10 and 11 (64-bit).
 
 Yoinky is free and safe, but it isn't signed by Apple or Microsoft yet (that costs money every
@@ -75,6 +75,8 @@ then:
 4. Drag the **Yoinky Extension** folder onto that page, or click **Load unpacked** and choose it.
 
 ## What's new
+
+**0.5.4:** Clear list button, cleaner sidebar, and a big round of fixes for Mac, Windows and the browser extension.
 
 **0.5.3:** YouTube fixed on Windows; real quality names for widescreen videos; no more page reloads after extension updates; tidier pop-ups and sidebar (extension 1.5.0).
 
