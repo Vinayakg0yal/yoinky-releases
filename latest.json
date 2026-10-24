@@ -1,23 +1,23 @@
 {
-  "version": "0.5.1",
-  "notes": "Instagram fixes: posts open reliably, stories and photo posts are read through your browser (extension button), and the button never covers a site's own buttons. Tidier picker and pop-ups. Comes with extension 1.4.0.",
-  "pub_date": "2026-10-23T20:23:02Z",
+  "version": "0.5.2",
+  "notes": "Windows: Yoinky's own window buttons (no doubled title bar), cleaner drop-downs, installer with the Yoinky icon. The browser extension only mentions updates when there is one. Comes with extension 1.4.1.",
+  "pub_date": "2026-10-24T00:50:21Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTnJyK1JuRHBNWnlsWTlBUFZhSndCQlcrc3BQVjk2WXBjbkVmU09RRytid1lDbWQrZ3ZsM1ZqMTZzWjdGTnh0c051cFNNRnpVOXpJSUhQMzVBa3ZtclFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzg2OTgxCWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuMQo2V2hWdXFYbVBKVU5nanFtdkl2S2pyNDFuMHJXNW9tYzI4OVRqYk5PSFNsaVNoVno1OHZmdVVZc2tXYk5EdGx6Ryt0T3orenUvWmUvT29BeW1GWTZEUT09Cg==",
-      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.5.1/Yoinky_0.5.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTm9MUE1iaElzNm9XdVFMbkFPYnAyNERKaFBKeVFmbmtLN1djVVhQczR2T01ISUFnV1VSOHRUTklzWXZyUFJnZEtLUjJtOWh0K1NiY0lMcWIvUTJhSWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODAzMDIwCWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuMgpLNklDN0NSdUpmSDlvWGsvbndnV0wrd3NNTEMrUngvb2VuNXJqdVBsbERndjBRMWQ0NnBIQlRDdGlsNmVLb3V6VUlnN3Y2enhqU2dCeC91bDA1KzNCUT09Cg==",
+      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.5.2/Yoinky_0.5.2_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTnJyK1JuRHBNWnlsWTlBUFZhSndCQlcrc3BQVjk2WXBjbkVmU09RRytid1lDbWQrZ3ZsM1ZqMTZzWjdGTnh0c051cFNNRnpVOXpJSUhQMzVBa3ZtclFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzg2OTgxCWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuMQo2V2hWdXFYbVBKVU5nanFtdkl2S2pyNDFuMHJXNW9tYzI4OVRqYk5PSFNsaVNoVno1OHZmdVVZc2tXYk5EdGx6Ryt0T3orenUvWmUvT29BeW1GWTZEUT09Cg==",
-      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.5.1/Yoinky_0.5.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTm9MUE1iaElzNm9XdVFMbkFPYnAyNERKaFBKeVFmbmtLN1djVVhQczR2T01ISUFnV1VSOHRUTklzWXZyUFJnZEtLUjJtOWh0K1NiY0lMcWIvUTJhSWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODAzMDIwCWZpbGU6WW9pbmt5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuMgpLNklDN0NSdUpmSDlvWGsvbndnV0wrd3NNTEMrUngvb2VuNXJqdVBsbERndjBRMWQ0NnBIQlRDdGlsNmVLb3V6VUlnN3Y2enhqU2dCeC91bDA1KzNCUT09Cg==",
+      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.5.2/Yoinky_0.5.2_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTnBteHZQQmNZd0tmMDAxQWl0RUQyMFRRcGc2ZlBRRUxvZVgyMFVJbkMxSWxWQm9sK0ZoVTdTRW5aK09MdWZOV3JsZzBhZVdHU2p4Yis0WTY3ZlVzM1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzMwMDA0CWZpbGU6WW9pbmt5XzAuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMQpNZ3NSaVhPdU9CV3F0OFJXbVNRVTdwLytWazVzdUhwUkRDbUttVUp2eDFMNXpVRUk2MTlkQlEvb3B4cnlZR2hnQ3cvV1lRcFFDMjhLS2gvLzJKMFJDQT09Cg==",
-      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.5.1/Yoinky_0.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTnU2UnFwaUdEUDR4RnEzMmpMcmhib3ppVVFQZmNFRXdmckdRVlFMa1ZMMUhsZ0dwOXR1QmVVbm10SUk4ZUhqUjdnMldYZGsrSk16bE5Ra053M1V5ZlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODAyNzA4CWZpbGU6WW9pbmt5XzAuNS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMgp6ZFlQUXdDSkJDVk1QK09pb0VYMmNKUTZJQlQzSkdOK0tUOFRDZ3Z1UDQzcEJObERzR29CRHRnYXF5SjFDTWVLTWJTT05DQzdKR0xpcWlZNmh4bUtCdz09Cg==",
+      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.5.2/Yoinky_0.5.2_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTnBteHZQQmNZd0tmMDAxQWl0RUQyMFRRcGc2ZlBRRUxvZVgyMFVJbkMxSWxWQm9sK0ZoVTdTRW5aK09MdWZOV3JsZzBhZVdHU2p4Yis0WTY3ZlVzM1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzMwMDA0CWZpbGU6WW9pbmt5XzAuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMQpNZ3NSaVhPdU9CV3F0OFJXbVNRVTdwLytWazVzdUhwUkRDbUttVUp2eDFMNXpVRUk2MTlkQlEvb3B4cnlZR2hnQ3cvV1lRcFFDMjhLS2gvLzJKMFJDQT09Cg==",
-      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.5.1/Yoinky_0.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWG9CREFRZkRzTnU2UnFwaUdEUDR4RnEzMmpMcmhib3ppVVFQZmNFRXdmckdRVlFMa1ZMMUhsZ0dwOXR1QmVVbm10SUk4ZUhqUjdnMldYZGsrSk16bE5Ra053M1V5ZlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODAyNzA4CWZpbGU6WW9pbmt5XzAuNS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMgp6ZFlQUXdDSkJDVk1QK09pb0VYMmNKUTZJQlQzSkdOK0tUOFRDZ3Z1UDQzcEJObERzR29CRHRnYXF5SjFDTWVLTWJTT05DQzdKR0xpcWlZNmh4bUtCdz09Cg==",
+      "url": "https://github.com/Vinayakg0yal/yoinky-releases/raw/main/updates/0.5.2/Yoinky_0.5.2_x64-setup.exe"
     }
   }
 }
