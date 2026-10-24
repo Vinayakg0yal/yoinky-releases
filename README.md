@@ -2,14 +2,15 @@
 
 A fast, modern download manager: multi-connection downloads, videos from YouTube and
 1,000+ sites in every quality (up to 4K and MP3), full-size images, an AI upscaler,
-background removal and a download queue. For Mac and Windows.
+background removal and a download queue with a schedule. Grab a whole playlist or every link on a
+page at once, record live streams, and use it in 9 languages. For Mac and Windows.
 
 ## Download
 
-**[⬇ Download Yoinky 0.5.4 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.5.4_aarch64.dmg)**
+**[⬇ Download Yoinky 0.6.0 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.6.0_aarch64.dmg)**
 For Macs with an M1, M2, M3, M4 (or newer) chip. To check: Apple menu → **About This Mac** → "Chip".
 
-**[⬇ Download Yoinky 0.5.4 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.5.4_x64-setup.exe)**
+**[⬇ Download Yoinky 0.6.0 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.6.0_x64-setup.exe)**
 For Windows 10 and 11 (64-bit).
 
 Yoinky is free and safe, but it isn't signed by Apple or Microsoft yet (that costs money every
@@ -59,7 +60,8 @@ with new apps that aren't signed yet.
 ## Browser extension (optional, recommended)
 
 The Yoinky extension sends your browser's downloads straight to Yoinky and adds a download button
-to videos. It works in Chrome, Edge, Brave, Arc, Opera and Vivaldi.
+to videos, and shows your downloads in its menu. It works in Chrome, Edge, Brave, Arc, Opera and
+Vivaldi, in your browser's language.
 
 **Easiest:** Yoinky sets it up with you the first time you open the app (or: Settings →
 Browser extension → Set up). Its **Download the extension** button saves a "Yoinky Extension"
@@ -75,6 +77,17 @@ then:
 4. Drag the **Yoinky Extension** folder onto that page, or click **Load unpacked** and choose it.
 
 ## What's new
+
+**0.6.0:** the biggest update yet.
+- Download many links at once (paste a list, or "Download links from this page" in the extension) and whole YouTube playlists and channels.
+- Select several downloads to pause, resume or remove them together; sort the list; right-click any download for more.
+- Schedule: start the queue at a set time, and quit, sleep or shut down when everything's done.
+- A speed limit per download; downloads wait on phone hotspots unless you say otherwise.
+- "You already downloaded this", a warning when the disk is too full, and checksum checks.
+- Videos: subtitles, chapters, cover art, M4A / Opus / FLAC audio, Original quality (HDR, 60 fps), and live stream recording.
+- A pop-up when a download finishes, drag files out of Yoinky, and press Space for a quick preview.
+- A welcome tour, and Yoinky in English, Español, Português, Français, Deutsch, हिन्दी, 日本語, 简体中文 and Русский.
+- Extension 1.9.0: in the same 9 languages, your downloads (with pause, resume and open) in its menu, and per-site switches.
 
 **0.5.4:** Clear list button, cleaner sidebar, and a big round of fixes for Mac, Windows and the browser extension.
 
