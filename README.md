@@ -7,10 +7,10 @@ page at once, record live streams, and use it in 9 languages. For Mac and Window
 
 ## Download
 
-**[⬇ Download Yoinky 0.6.0 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.6.0_aarch64.dmg)**
+**[⬇ Download Yoinky 0.6.1 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.6.1_aarch64.dmg)**
 For Macs with an M1, M2, M3, M4 (or newer) chip. To check: Apple menu → **About This Mac** → "Chip".
 
-**[⬇ Download Yoinky 0.6.0 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.6.0_x64-setup.exe)**
+**[⬇ Download Yoinky 0.6.1 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.6.1_x64-setup.exe)**
 For Windows 10 and 11 (64-bit).
 
 Yoinky is free and safe, but it isn't signed by Apple or Microsoft yet (that costs money every
@@ -77,6 +77,8 @@ then:
 4. Drag the **Yoinky Extension** folder onto that page, or click **Load unpacked** and choose it.
 
 ## What's new
+
+**0.6.1:** Windows: frosted glass is back and stays frosted when another window is in front; a plain background when Transparency effects are off in Windows' settings.
 
 **0.6.0:** the biggest update yet.
 - Download many links at once (paste a list, or "Download links from this page" in the extension) and whole YouTube playlists and channels.
