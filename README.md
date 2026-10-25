@@ -1,16 +1,16 @@
 # Yoinky
 
 A fast, modern download manager: multi-connection downloads, videos from YouTube and
-1,000+ sites in every quality (up to 4K and MP3), full-size images, an AI upscaler,
+1,000+ sites in every quality (up to 4K and MP3), torrents, full-size images, an AI upscaler,
 background removal and a download queue with a schedule. Grab a whole playlist or every link on a
 page at once, record live streams, and use it in 9 languages. For Mac and Windows.
 
 ## Download
 
-**[⬇ Download Yoinky 0.6.1 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.6.1_aarch64.dmg)**
+**[⬇ Download Yoinky 0.7.0 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.7.0_aarch64.dmg)**
 For Macs with an M1, M2, M3, M4 (or newer) chip. To check: Apple menu → **About This Mac** → "Chip".
 
-**[⬇ Download Yoinky 0.6.1 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.6.1_x64-setup.exe)**
+**[⬇ Download Yoinky 0.7.0 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.7.0_x64-setup.exe)**
 For Windows 10 and 11 (64-bit).
 
 Yoinky is free and safe, but it isn't signed by Apple or Microsoft yet (that costs money every
@@ -77,6 +77,8 @@ then:
 4. Drag the **Yoinky Extension** folder onto that page, or click **Load unpacked** and choose it.
 
 ## What's new
+
+**0.7.0:** Torrents: magnet links and .torrent files (pick which files, sharing after finishing, extra trackers or your own tracker list); Settings in tabs.
 
 **0.6.1:** Windows: frosted glass is back and stays frosted when another window is in front; a plain background when Transparency effects are off in Windows' settings.
 
