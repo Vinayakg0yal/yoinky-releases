@@ -7,10 +7,10 @@ page at once, record live streams, and use it in 9 languages. For Mac and Window
 
 ## Download
 
-**[⬇ Download Yoinky 0.7.3 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.7.3_aarch64.dmg)**
+**[⬇ Download Yoinky 0.7.4 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.7.4_aarch64.dmg)**
 For Macs with an M1, M2, M3, M4 (or newer) chip. To check: Apple menu → **About This Mac** → "Chip".
 
-**[⬇ Download Yoinky 0.7.3 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.7.3_x64-setup.exe)**
+**[⬇ Download Yoinky 0.7.4 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_0.7.4_x64-setup.exe)**
 For Windows 10 and 11 (64-bit).
 
 Yoinky is free and safe, but it isn't signed by Apple or Microsoft yet (that costs money every
@@ -77,6 +77,8 @@ then:
 4. Drag the **Yoinky Extension** folder onto that page, or click **Load unpacked** and choose it.
 
 ## What's new
+
+**0.7.4:** No more random pop-ups (only catches a real copy, on every browser); downloads show chunks like IDM; the extension scans a page and sorts downloads into tabs.
 
 **0.7.3:** Faster video checks and bug fixes; on Windows, only links you actually copy are caught (no more surprise pop-ups).
 
