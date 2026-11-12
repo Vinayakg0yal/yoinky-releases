@@ -78,21 +78,23 @@ then:
 
 ## What's new
 
-**2.0.0:** New translucent glass, the same on Mac and Windows; app and extension now share one version (2.0.0); download chunks shown like IDM.
+*In development since **Oct 17, 2026**, first released **Oct 21, 2026** — 26 releases so far.*
 
-**0.7.4:** No more random pop-ups (only catches a real copy, on every browser); downloads show chunks like IDM; the extension scans a page and sorts downloads into tabs.
+**2.0.0** · Nov 12, 2026 — New translucent glass, the same on Mac and Windows; app and extension now share one version (2.0.0); download chunks shown like IDM.
 
-**0.7.3:** Faster video checks and bug fixes; on Windows, only links you actually copy are caught (no more surprise pop-ups).
+**0.7.4** · Nov 9, 2026 — No more random pop-ups (only catches a real copy, on every browser); downloads show chunks like IDM; the extension scans a page and sorts downloads into tabs.
 
-**0.7.2:** a Glass slider (See-through → Frosted) and a clearer window; steadier Windows glass when switching Light/Dark and in the background; only links you copied pop up; pages can't open torrents by themselves; tidier toolbar and window buttons; full-size images from more sites; lighter on your system
+**0.7.3** · Nov 3, 2026 — Faster video checks and bug fixes; on Windows, only links you actually copy are caught (no more surprise pop-ups).
 
-**0.7.1:** new colours, with Light or Dark in Settings; Windows: YouTube downloads and Remove background work again; Remove background starts right away, with Undo and zoom; video thumbnails at their best size; checked links open straight away; Google Images pictures full size from their website; the download button sits with YouTube's, TikTok's, X's and Instagram's own buttons; no torrent pop-ups you didn't ask for; the extension in several browsers at once.
+**0.7.2** · Oct 27, 2026 — a Glass slider (See-through → Frosted) and a clearer window; steadier Windows glass when switching Light/Dark and in the background; only links you copied pop up; pages can't open torrents by themselves; tidier toolbar and window buttons; full-size images from more sites; lighter on your system
 
-**0.7.0:** Torrents: magnet links and .torrent files (pick which files, sharing after finishing, extra trackers or your own tracker list); Settings in tabs.
+**0.7.1** · Oct 26, 2026 — new colours, with Light or Dark in Settings; Windows: YouTube downloads and Remove background work again; Remove background starts right away, with Undo and zoom; video thumbnails at their best size; checked links open straight away; Google Images pictures full size from their website; the download button sits with YouTube's, TikTok's, X's and Instagram's own buttons; no torrent pop-ups you didn't ask for; the extension in several browsers at once.
 
-**0.6.1:** Windows: frosted glass is back and stays frosted when another window is in front; a plain background when Transparency effects are off in Windows' settings.
+**0.7.0** · Oct 25, 2026 — Torrents: magnet links and .torrent files (pick which files, sharing after finishing, extra trackers or your own tracker list); Settings in tabs.
 
-**0.6.0:** the biggest update yet.
+**0.6.1** · Oct 24, 2026 — Windows: frosted glass is back and stays frosted when another window is in front; a plain background when Transparency effects are off in Windows' settings.
+
+**0.6.0** · Oct 24, 2026 — the biggest update yet.
 - Download many links at once (paste a list, or "Download links from this page" in the extension) and whole YouTube playlists and channels.
 - Select several downloads to pause, resume or remove them together; sort the list; right-click any download for more.
 - Schedule: start the queue at a set time, and quit, sleep or shut down when everything's done.
@@ -103,41 +105,41 @@ then:
 - A welcome tour, and Yoinky in English, Español, Português, Français, Deutsch, हिन्दी, 日本語, 简体中文 and Русский.
 - Extension 1.9.0: in the same 9 languages, your downloads (with pause, resume and open) in its menu, and per-site switches.
 
-**0.5.4:** Clear list button, cleaner sidebar, and a big round of fixes for Mac, Windows and the browser extension.
+**0.5.4** · Oct 24, 2026 — Clear list button, cleaner sidebar, and a big round of fixes for Mac, Windows and the browser extension.
 
-**0.5.3:** YouTube fixed on Windows; real quality names for widescreen videos; no more page reloads after extension updates; tidier pop-ups and sidebar (extension 1.5.0).
+**0.5.3** · Oct 23, 2026 — YouTube fixed on Windows; real quality names for widescreen videos; no more page reloads after extension updates; tidier pop-ups and sidebar (extension 1.5.0).
 
-**0.5.2:** Windows look: own window buttons, cleaner drop-downs, installer icon; the extension only mentions updates when there is one (extension 1.4.1).
+**0.5.2** · Oct 23, 2026 — Windows look: own window buttons, cleaner drop-downs, installer icon; the extension only mentions updates when there is one (extension 1.4.1).
 
-**0.5.1:** Instagram posts open reliably; stories and photos through the extension button; the button never covers a site's own buttons; tidier picker (extension 1.4.0).
+**0.5.1** · Oct 23, 2026 — Instagram posts open reliably; stories and photos through the extension button; the button never covers a site's own buttons; tidier picker (extension 1.4.0).
 
-**0.5.0:** Instagram and X support: paste or copy a post, reel, carousel or story link and pick the whole post or single photos and videos (extension 1.3.0).
+**0.5.0** · Oct 23, 2026 — Instagram and X support: paste or copy a post, reel, carousel or story link and pick the whole post or single photos and videos (extension 1.3.0).
 
-**0.4.5:** Click the extension's download button while Yoinky is closed and Yoinky opens by itself (extension 1.2.0).
+**0.4.5** · Oct 21, 2026 — Click the extension's download button while Yoinky is closed and Yoinky opens by itself (extension 1.2.0).
 
-**0.4.4:** the extension finds videos and audio on any page (embedded players and streams too); Add to queue starts when idle; copying a link again shows the pop-up; start-up screen; cleaner scroll bars.
+**0.4.4** · Oct 21, 2026 — the extension finds videos and audio on any page (embedded players and streams too); Add to queue starts when idle; copying a link again shows the pop-up; start-up screen; cleaner scroll bars.
 
-**0.4.3:** one Yoinky at a time; centered pop-ups; a subtler, smoother video button in the extension.
+**0.4.3** · Oct 21, 2026 — one Yoinky at a time; centered pop-ups; a subtler, smoother video button in the extension.
 
-**0.4.2:** fixes: Windows folders and frosted glass, copied-link pop-up timing, image tools stuck at 100%, pop-ups on small windows, Google preview images.
+**0.4.2** · Oct 21, 2026 — fixes: Windows folders and frosted glass, copied-link pop-up timing, image tools stuck at 100%, pop-ups on small windows, Google preview images.
 
-**0.4.1:** easier extension setup (saved to Downloads); Windows frosted glass and stability fixes.
+**0.4.1** · Oct 21, 2026 — easier extension setup (saved to Downloads); Windows frosted glass and stability fixes.
 
-**0.4.0:** Remove background and smart picture names on Windows; a quieter Ko-fi link.
+**0.4.0** · Oct 21, 2026 — Remove background and smart picture names on Windows; a quieter Ko-fi link.
 
-**0.3.3:** a Ko-fi support button in the app and the extension.
+**0.3.3** · Oct 21, 2026 — a Ko-fi support button in the app and the extension.
 
-**0.3.2:** a clear message for copy-protected services like Netflix and Spotify.
+**0.3.2** · Oct 21, 2026 — a clear message for copy-protected services like Netflix and Spotify.
 
-**0.3.1:** remove a download from the list only, or delete its file too (it goes to the Trash).
+**0.3.1** · Oct 21, 2026 — remove a download from the list only, or delete its file too (it goes to the Trash).
 
-**0.3.0:** the browser extension: browser downloads go straight to Yoinky, a download button on videos, and right-click → Download with Yoinky.
+**0.3.0** · Oct 21, 2026 — the browser extension: browser downloads go straight to Yoinky, a download button on videos, and right-click → Download with Yoinky.
 
-**0.2.2:** a Yoinky Downloads button at the top of every view.
+**0.2.2** · Oct 21, 2026 — a Yoinky Downloads button at the top of every view.
 
-**0.2.1:** updates now come straight from this page.
+**0.2.1** · Oct 21, 2026 — updates now come straight from this page.
 
-**0.2.0:** First public version: fast multi-connection downloads with a queue, videos from YouTube and
+**0.2.0** · Oct 21, 2026 — First public version: fast multi-connection downloads with a queue, videos from YouTube and
 1,000+ sites up to 4K plus MP3, full-size images with smart names, an AI upscaler, a background
 remover, and automatic updates.
 
