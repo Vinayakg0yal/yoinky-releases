@@ -7,10 +7,10 @@ page at once, record live streams, and use it in 9 languages. For Mac and Window
 
 ## Download
 
-**[⬇ Download Yoinky 2.0.0 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.0_aarch64.dmg)**
+**[⬇ Download Yoinky 2.0.1 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.1_aarch64.dmg)**
 For Macs with an M1, M2, M3, M4 (or newer) chip. To check: Apple menu → **About This Mac** → "Chip".
 
-**[⬇ Download Yoinky 2.0.0 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.0_x64-setup.exe)**
+**[⬇ Download Yoinky 2.0.1 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.1_x64-setup.exe)**
 For Windows 10 and 11 (64-bit).
 
 Yoinky is free and safe, but it isn't signed by Apple or Microsoft yet (that costs money every
@@ -78,7 +78,9 @@ then:
 
 ## What's new
 
-*In development since **Oct 17, 2026**, first released **Oct 21, 2026** — 26 releases so far.*
+*In development since **Oct 17, 2026**, first released **Oct 21, 2026** — 27 releases so far.*
+
+**2.0.1** · Nov 13, 2026 — The queue, selection and warning bars are see-through glass now (no more solid slab); the extension's size drop-down is readable on Windows.
 
 **2.0.0** · Nov 12, 2026 — New translucent glass, the same on Mac and Windows; app and extension now share one version (2.0.0); download chunks shown like IDM.
 
