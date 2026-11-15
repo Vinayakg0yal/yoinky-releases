@@ -7,10 +7,10 @@ page at once, record live streams, and use it in 9 languages. For Mac and Window
 
 ## Download
 
-**[⬇ Download Yoinky 2.0.2 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.2_aarch64.dmg)**
+**[⬇ Download Yoinky 2.0.3 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.3_aarch64.dmg)**
 For Macs with an M1, M2, M3, M4 (or newer) chip. To check: Apple menu → **About This Mac** → "Chip".
 
-**[⬇ Download Yoinky 2.0.2 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.2_x64-setup.exe)**
+**[⬇ Download Yoinky 2.0.3 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.3_x64-setup.exe)**
 For Windows 10 and 11 (64-bit).
 
 Yoinky is free and safe, but it isn't signed by Apple or Microsoft yet (that costs money every
@@ -78,7 +78,9 @@ then:
 
 ## What's new
 
-*In development since **Oct 17, 2026**, first released **Oct 21, 2026** — 28 releases so far.*
+*In development since **Oct 17, 2026**, first released **Oct 21, 2026** — 29 releases so far.*
+
+**2.0.3** · Nov 15, 2026 — Catches downloads on many more sites: files whose server doesn't give a size (Download ZIP buttons, file hosts) and downloads after long countdowns. The extension now lists any download that stayed in the browser, says why, and lets you send it to Yoinky.
 
 **2.0.2** · Nov 14, 2026 — Downloads you click open Yoinky even when it's closed, and the page says why if it can't take one; opening a browser no longer pops up a link you copied earlier; right-click > Copy link counts on Windows; the extension's size drop-down is readable on Windows.
 
