@@ -7,10 +7,10 @@ page at once, record live streams, and use it in 9 languages. For Mac and Window
 
 ## Download
 
-**[⬇ Download Yoinky 2.0.4 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.4_aarch64.dmg)**
+**[⬇ Download Yoinky 2.0.5 for Mac (Apple Silicon)](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.5_aarch64.dmg)**
 For Macs with an M1, M2, M3, M4 (or newer) chip. To check: Apple menu → **About This Mac** → "Chip".
 
-**[⬇ Download Yoinky 2.0.4 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.4_x64-setup.exe)**
+**[⬇ Download Yoinky 2.0.5 for Windows](https://github.com/Vinayakg0yal/yoinky-releases/raw/main/downloads/Yoinky_2.0.5_x64-setup.exe)**
 For Windows 10 and 11 (64-bit).
 
 Yoinky is free and safe, but it isn't signed by Apple or Microsoft yet (that costs money every
@@ -78,7 +78,9 @@ then:
 
 ## What's new
 
-*In development since **Oct 17, 2026**, first released **Oct 21, 2026** — 30 releases so far.*
+*In development since **Oct 17, 2026**, first released **Oct 21, 2026** — 31 releases so far.*
+
+**2.0.5** · Nov 16, 2026 — A link Yoinky notices by itself is offered once: a magnet link or .torrent file that comes back (from a browser, the system, or Yoinky restarting) isn't shown again, and a copied link doesn't pop up twice. Links you hand over yourself always work.
 
 **2.0.4** · Nov 15, 2026 — Only catches what you start yourself: a download needs a click in the page it came from, a magnet link or .torrent file a website opens on its own no longer pops up Yoinky, and on a Mac only ⌘C or a menu click counts as copying.
 
